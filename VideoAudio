@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+<style media="screen">
+  body{
+    background: #123456;
+    height: 100%;
+    text-align:center;
+  }
+</style>    
+  </header>
+  <audio controls loop>
+  <source src="/home/kursant/Загрузки/Voennye_pesni_-_Smuglyanka_34886085.mp3">
+  </audio>
+
+  <video loopwidth="400" height="300" controls="controls" poster="video/pic.jpg">
+  <source src="/home/kursant/Загрузки/Самое_красивое_видео_о_природе._Эпичный_трек..mp4">
+  </video>
+  <iframe width="400" height="300" src="https://www.youtube.com/embed/l6pDOwNeTrg"  controls></iframe>
+</body>
+</html>
