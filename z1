@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <style media="screen">
+    body{
+      front-size: 15px; 
+      color: red; 
+      font-family: "times new roman";
+    }
+  </style>
+  
+  <h1>Заголовок</h1>
+<p>
+    Первый абзац</p>
+<p>
+    Второй абзац</p>
+    <p>
+    Третий абзац</p>
+</body>
+</html>
